@@ -1,0 +1,59 @@
+{
+  "extName": {
+    "message": "YouTube 留言自動翻譯"
+  },
+  "extDescription": {
+    "message": "留言出現在螢幕上時，自動使用 YouTube 原生翻譯，無需額外翻譯 API。"
+  },
+  "actionTitle": {
+    "message": "YouTube 留言自動翻譯"
+  },
+  "popupTitle": {
+    "message": "留言自動翻譯"
+  },
+  "popupTagline": {
+    "message": "只翻譯你眼前看得到的留言"
+  },
+  "toggleLabel": {
+    "message": "自動翻譯螢幕內的留言"
+  },
+  "statusOn": {
+    "message": "已開啟"
+  },
+  "statusOff": {
+    "message": "已關閉"
+  },
+  "hintOn": {
+    "message": "留言進入螢幕時會自動點擊「翻譯」。繼續往下滑可翻譯更多。"
+  },
+  "hintOff": {
+    "message": "開啟後，留言出現在螢幕內時會自動翻譯。"
+  },
+  "sessionCount": {
+    "message": "本次已翻譯：$COUNT$ 則",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "pageUnavailable": {
+    "message": "請開啟 YouTube 影片頁面後使用。"
+  },
+  "openYouTube": {
+    "message": "開啟 YouTube"
+  },
+  "footerGithub": {
+    "message": "在 GitHub 查看"
+  },
+  "versionLabel": {
+    "message": "v$VERSION$",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "1.0.0"
+      }
+    }
+  }
+}

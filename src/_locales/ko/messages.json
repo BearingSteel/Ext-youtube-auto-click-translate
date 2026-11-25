@@ -1,0 +1,59 @@
+{
+  "extName": {
+    "message": "YouTube 댓글 자동 번역"
+  },
+  "extDescription": {
+    "message": "화면에 나타나는 YouTube 댓글을 YouTube 기본 번역 기능으로 자동 번역합니다."
+  },
+  "actionTitle": {
+    "message": "YouTube 댓글 자동 번역"
+  },
+  "popupTitle": {
+    "message": "댓글 자동 번역"
+  },
+  "popupTagline": {
+    "message": "화면에 보이는 댓글만"
+  },
+  "toggleLabel": {
+    "message": "화면에 보이는 댓글 자동 번역"
+  },
+  "statusOn": {
+    "message": "켜짐"
+  },
+  "statusOff": {
+    "message": "꺼짐"
+  },
+  "hintOn": {
+    "message": "댓글이 화면에 들어오면 '번역'을 자동으로 클릭합니다. 계속 스크롤하면 더 번역됩니다."
+  },
+  "hintOff": {
+    "message": "켜면 댓글이 화면에 나타날 때 자동으로 번역합니다."
+  },
+  "sessionCount": {
+    "message": "이번 세션 번역: $COUNT$",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "pageUnavailable": {
+    "message": "YouTube 동영상 페이지를 연 후 사용하세요."
+  },
+  "openYouTube": {
+    "message": "YouTube 열기"
+  },
+  "footerGithub": {
+    "message": "GitHub에서 보기"
+  },
+  "versionLabel": {
+    "message": "v$VERSION$",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "1.0.0"
+      }
+    }
+  }
+}

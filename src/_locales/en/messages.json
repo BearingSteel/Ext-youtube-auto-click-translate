@@ -1,0 +1,59 @@
+{
+  "extName": {
+    "message": "YouTube Auto Translate"
+  },
+  "extDescription": {
+    "message": "Automatically translate YouTube comments as they appear on screen using YouTube's native translation."
+  },
+  "actionTitle": {
+    "message": "YouTube Auto Translate"
+  },
+  "popupTitle": {
+    "message": "Comment Auto Translate"
+  },
+  "popupTagline": {
+    "message": "Only the comments you can see"
+  },
+  "toggleLabel": {
+    "message": "Translate visible comments automatically"
+  },
+  "statusOn": {
+    "message": "On"
+  },
+  "statusOff": {
+    "message": "Off"
+  },
+  "hintOn": {
+    "message": "Comments are translated as they enter the screen. Keep scrolling to translate more."
+  },
+  "hintOff": {
+    "message": "Turn on to translate comments when they become visible."
+  },
+  "sessionCount": {
+    "message": "Translated this session: $COUNT$",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "pageUnavailable": {
+    "message": "Open a YouTube video page to use this extension."
+  },
+  "openYouTube": {
+    "message": "Open YouTube"
+  },
+  "footerGithub": {
+    "message": "View on GitHub"
+  },
+  "versionLabel": {
+    "message": "v$VERSION$",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "1.0.0"
+      }
+    }
+  }
+}

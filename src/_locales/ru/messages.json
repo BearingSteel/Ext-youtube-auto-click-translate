@@ -1,0 +1,59 @@
+{
+  "extName": {
+    "message": "Автоперевод комментариев YouTube"
+  },
+  "extDescription": {
+    "message": "Автоматически переводит комментарии YouTube при появлении на экране с помощью встроенного перевода YouTube."
+  },
+  "actionTitle": {
+    "message": "Автоперевод комментариев YouTube"
+  },
+  "popupTitle": {
+    "message": "Автоперевод комментариев"
+  },
+  "popupTagline": {
+    "message": "Только комментарии, которые вы видите"
+  },
+  "toggleLabel": {
+    "message": "Автоматически переводить видимые комментарии"
+  },
+  "statusOn": {
+    "message": "Вкл."
+  },
+  "statusOff": {
+    "message": "Выкл."
+  },
+  "hintOn": {
+    "message": "Комментарии переводятся, когда появляются на экране. Продолжайте прокручивать, чтобы перевести больше."
+  },
+  "hintOff": {
+    "message": "Включите, чтобы переводить комментарии при появлении."
+  },
+  "sessionCount": {
+    "message": "Переведено за сеанс: $COUNT$",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "pageUnavailable": {
+    "message": "Откройте страницу видео YouTube, чтобы использовать расширение."
+  },
+  "openYouTube": {
+    "message": "Открыть YouTube"
+  },
+  "footerGithub": {
+    "message": "Посмотреть на GitHub"
+  },
+  "versionLabel": {
+    "message": "v$VERSION$",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "1.0.0"
+      }
+    }
+  }
+}

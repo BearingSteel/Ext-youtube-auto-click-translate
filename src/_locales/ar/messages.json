@@ -1,0 +1,59 @@
+{
+  "extName": {
+    "message": "ترجمة تعليقات YouTube تلقائيًا"
+  },
+  "extDescription": {
+    "message": "ترجم تعليقات YouTube تلقائيًا عند ظهورها على الشاشة باستخدام الترجمة الأصلية في YouTube."
+  },
+  "actionTitle": {
+    "message": "ترجمة تعليقات YouTube تلقائيًا"
+  },
+  "popupTitle": {
+    "message": "ترجمة التعليقات تلقائيًا"
+  },
+  "popupTagline": {
+    "message": "فقط التعليقات التي تراها"
+  },
+  "toggleLabel": {
+    "message": "ترجمة التعليقات الظاهرة تلقائيًا"
+  },
+  "statusOn": {
+    "message": "مفعّل"
+  },
+  "statusOff": {
+    "message": "متوقف"
+  },
+  "hintOn": {
+    "message": "تُترجم التعليقات عند دخولها الشاشة. تابع التمرير لترجمة المزيد."
+  },
+  "hintOff": {
+    "message": "فعّل الخيار لترجمة التعليقات عند ظهورها."
+  },
+  "sessionCount": {
+    "message": "تمت الترجمة في هذه الجلسة: $COUNT$",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "pageUnavailable": {
+    "message": "افتح صفحة فيديو على YouTube لاستخدام هذا الامتداد."
+  },
+  "openYouTube": {
+    "message": "فتح YouTube"
+  },
+  "footerGithub": {
+    "message": "عرض على GitHub"
+  },
+  "versionLabel": {
+    "message": "v$VERSION$",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "1.0.0"
+      }
+    }
+  }
+}

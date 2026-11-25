@@ -1,0 +1,59 @@
+{
+  "extName": {
+    "message": "Traduzione automatica dei commenti di YouTube"
+  },
+  "extDescription": {
+    "message": "Traduce automaticamente i commenti di YouTube quando compaiono sullo schermo usando la traduzione nativa di YouTube."
+  },
+  "actionTitle": {
+    "message": "Traduzione automatica dei commenti"
+  },
+  "popupTitle": {
+    "message": "Traduzione automatica"
+  },
+  "popupTagline": {
+    "message": "Solo i commenti che vedi"
+  },
+  "toggleLabel": {
+    "message": "Traduci automaticamente i commenti visibili"
+  },
+  "statusOn": {
+    "message": "Attivo"
+  },
+  "statusOff": {
+    "message": "Disattivo"
+  },
+  "hintOn": {
+    "message": "I commenti vengono tradotti quando entrano nello schermo. Continua a scorrere per tradurne altri."
+  },
+  "hintOff": {
+    "message": "Attiva per tradurre i commenti quando diventano visibili."
+  },
+  "sessionCount": {
+    "message": "Tradotti in questa sessione: $COUNT$",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "pageUnavailable": {
+    "message": "Apri una pagina video di YouTube per usare questa estensione."
+  },
+  "openYouTube": {
+    "message": "Apri YouTube"
+  },
+  "footerGithub": {
+    "message": "Vedi su GitHub"
+  },
+  "versionLabel": {
+    "message": "v$VERSION$",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "1.0.0"
+      }
+    }
+  }
+}

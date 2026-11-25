@@ -1,0 +1,59 @@
+{
+  "extName": {
+    "message": "YouTube コメント自動翻訳"
+  },
+  "extDescription": {
+    "message": "画面に表示された YouTube コメントを、YouTube 標準の翻訳機能で自動的に翻訳します。"
+  },
+  "actionTitle": {
+    "message": "YouTube コメント自動翻訳"
+  },
+  "popupTitle": {
+    "message": "コメント自動翻訳"
+  },
+  "popupTagline": {
+    "message": "画面に見えているコメントだけ"
+  },
+  "toggleLabel": {
+    "message": "表示中のコメントを自動翻訳"
+  },
+  "statusOn": {
+    "message": "オン"
+  },
+  "statusOff": {
+    "message": "オフ"
+  },
+  "hintOn": {
+    "message": "コメントが画面に入ると「翻訳」を自動でクリックします。スクロールすると続けて翻訳されます。"
+  },
+  "hintOff": {
+    "message": "オンにすると、コメントが表示されたときに自動翻訳します。"
+  },
+  "sessionCount": {
+    "message": "今回の翻訳数：$COUNT$",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "pageUnavailable": {
+    "message": "YouTube の動画ページを開いてから使用してください。"
+  },
+  "openYouTube": {
+    "message": "YouTube を開く"
+  },
+  "footerGithub": {
+    "message": "GitHub で見る"
+  },
+  "versionLabel": {
+    "message": "v$VERSION$",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "1.0.0"
+      }
+    }
+  }
+}

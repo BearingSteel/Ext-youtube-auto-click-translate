@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>YouTube Auto Translate</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main class="card">
+      <header class="header">
+        <img class="logo" src="icons/icon48.png" alt="" width="40" height="40" />
+        <div class="heading">
+          <h1 data-i18n="popupTitle">Comment Auto Translate</h1>
+          <p class="tagline" data-i18n="popupTagline">Only the comments you can see</p>
+        </div>
+      </header>
+
+      <section class="control" aria-labelledby="toggleLabel">
+        <div class="control-copy">
+          <span id="toggleLabel" class="control-label" data-i18n="toggleLabel">
+            Translate visible comments automatically
+          </span>
+          <span class="status">
+            <span class="status-dot" aria-hidden="true"></span>
+            <span id="statusText" data-i18n="statusOn">On</span>
+          </span>
+        </div>
+        <button
+          id="toggle"
+          class="switch"
+          type="button"
+          role="switch"
+          aria-checked="true"
+          aria-labelledby="toggleLabel"
+        >
+          <span class="switch-knob" aria-hidden="true"></span>
+        </button>
+      </section>
+
+      <p id="hint" class="hint" data-i18n="hintOn">
+        Comments are translated as they enter the screen. Keep scrolling to translate more.
+      </p>
+
+      <p id="pageNotice" class="page-notice" hidden>
+        <span data-i18n="pageUnavailable">Open a YouTube video page to use this extension.</span>
+        <a id="openYouTube" href="https://www.youtube.com/" target="_blank" rel="noreferrer" data-i18n="openYouTube">
+          Open YouTube
+        </a>
+      </p>
+
+      <div class="stats">
+        <span id="count" class="count">Translated this session: 0</span>
+      </div>
+
+      <footer class="footer">
+        <a id="github" href="https://github.com/BearingSteel/Ext-youtube-auto-click-translate" target="_blank" rel="noreferrer" data-i18n="footerGithub">
+          View on GitHub
+        </a>
+        <span id="version" class="version"></span>
+      </footer>
+    </main>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

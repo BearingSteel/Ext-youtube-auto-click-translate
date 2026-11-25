@@ -1,0 +1,59 @@
+{
+  "extName": {
+    "message": "Tự động dịch bình luận YouTube"
+  },
+  "extDescription": {
+    "message": "Tự động dịch bình luận YouTube khi chúng xuất hiện trên màn hình bằng tính năng dịch gốc của YouTube."
+  },
+  "actionTitle": {
+    "message": "Tự động dịch bình luận YouTube"
+  },
+  "popupTitle": {
+    "message": "Tự động dịch bình luận"
+  },
+  "popupTagline": {
+    "message": "Chỉ những bình luận bạn nhìn thấy"
+  },
+  "toggleLabel": {
+    "message": "Tự động dịch bình luận hiển thị"
+  },
+  "statusOn": {
+    "message": "Bật"
+  },
+  "statusOff": {
+    "message": "Tắt"
+  },
+  "hintOn": {
+    "message": "Bình luận được dịch khi xuất hiện trên màn hình. Tiếp tục cuộn để dịch thêm."
+  },
+  "hintOff": {
+    "message": "Bật để tự động dịch bình luận khi chúng hiển thị."
+  },
+  "sessionCount": {
+    "message": "Đã dịch trong phiên này: $COUNT$",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "pageUnavailable": {
+    "message": "Mở trang video YouTube để sử dụng tiện ích này."
+  },
+  "openYouTube": {
+    "message": "Mở YouTube"
+  },
+  "footerGithub": {
+    "message": "Xem trên GitHub"
+  },
+  "versionLabel": {
+    "message": "v$VERSION$",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "1.0.0"
+      }
+    }
+  }
+}

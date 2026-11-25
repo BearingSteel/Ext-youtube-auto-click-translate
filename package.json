@@ -1,0 +1,19 @@
+{
+  "name": "youtube-auto-click-translate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Chrome/Edge extension that automatically clicks YouTube's native translate button for comments visible on screen.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BearingSteel/Ext-youtube-auto-click-translate.git"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs",
+    "icons": "python3 scripts/generate-icons.py"
+  },
+  "license": "MIT"
+}

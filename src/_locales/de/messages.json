@@ -1,0 +1,59 @@
+{
+  "extName": {
+    "message": "YouTube-Kommentare automatisch übersetzen"
+  },
+  "extDescription": {
+    "message": "Übersetzt YouTube-Kommentare automatisch, sobald sie auf dem Bildschirm erscheinen – mit der nativen YouTube-Übersetzung."
+  },
+  "actionTitle": {
+    "message": "YouTube-Kommentare automatisch übersetzen"
+  },
+  "popupTitle": {
+    "message": "Kommentare automatisch übersetzen"
+  },
+  "popupTagline": {
+    "message": "Nur die Kommentare, die du siehst"
+  },
+  "toggleLabel": {
+    "message": "Sichtbare Kommentare automatisch übersetzen"
+  },
+  "statusOn": {
+    "message": "An"
+  },
+  "statusOff": {
+    "message": "Aus"
+  },
+  "hintOn": {
+    "message": "Kommentare werden übersetzt, sobald sie auf dem Bildschirm erscheinen. Scrolle weiter, um mehr zu übersetzen."
+  },
+  "hintOff": {
+    "message": "Aktiviere die Funktion, um Kommentare beim Erscheinen automatisch zu übersetzen."
+  },
+  "sessionCount": {
+    "message": "In dieser Sitzung übersetzt: $COUNT$",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "pageUnavailable": {
+    "message": "Öffne eine YouTube-Videoseite, um diese Erweiterung zu verwenden."
+  },
+  "openYouTube": {
+    "message": "YouTube öffnen"
+  },
+  "footerGithub": {
+    "message": "Auf GitHub ansehen"
+  },
+  "versionLabel": {
+    "message": "v$VERSION$",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "1.0.0"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "extName": {
+    "message": "Terjemahkan Komentar YouTube Otomatis"
+  },
+  "extDescription": {
+    "message": "Secara otomatis menerjemahkan komentar YouTube saat muncul di layar menggunakan terjemahan bawaan YouTube."
+  },
+  "actionTitle": {
+    "message": "Terjemahkan Komentar YouTube Otomatis"
+  },
+  "popupTitle": {
+    "message": "Terjemahan Otomatis Komentar"
+  },
+  "popupTagline": {
+    "message": "Hanya komentar yang Anda lihat"
+  },
+  "toggleLabel": {
+    "message": "Terjemahkan komentar yang terlihat secara otomatis"
+  },
+  "statusOn": {
+    "message": "Aktif"
+  },
+  "statusOff": {
+    "message": "Nonaktif"
+  },
+  "hintOn": {
+    "message": "Komentar diterjemahkan saat masuk ke layar. Terus gulir untuk menerjemahkan lebih banyak."
+  },
+  "hintOff": {
+    "message": "Aktifkan untuk menerjemahkan komentar saat muncul."
+  },
+  "sessionCount": {
+    "message": "Diterjemahkan dalam sesi ini: $COUNT$",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "pageUnavailable": {
+    "message": "Buka halaman video YouTube untuk menggunakan ekstensi ini."
+  },
+  "openYouTube": {
+    "message": "Buka YouTube"
+  },
+  "footerGithub": {
+    "message": "Lihat di GitHub"
+  },
+  "versionLabel": {
+    "message": "v$VERSION$",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "1.0.0"
+      }
+    }
+  }
+}

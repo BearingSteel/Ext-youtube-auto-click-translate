@@ -1,0 +1,59 @@
+{
+  "extName": {
+    "message": "YouTube Yorumlarını Otomatik Çevir"
+  },
+  "extDescription": {
+    "message": "Ekrana gelen YouTube yorumlarını YouTube'un yerleşik çevirisiyle otomatik olarak çevirir."
+  },
+  "actionTitle": {
+    "message": "YouTube Yorumlarını Otomatik Çevir"
+  },
+  "popupTitle": {
+    "message": "Yorumları Otomatik Çevir"
+  },
+  "popupTagline": {
+    "message": "Yalnızca gördüğün yorumlar"
+  },
+  "toggleLabel": {
+    "message": "Görünen yorumları otomatik çevir"
+  },
+  "statusOn": {
+    "message": "Açık"
+  },
+  "statusOff": {
+    "message": "Kapalı"
+  },
+  "hintOn": {
+    "message": "Yorumlar ekrana girdiğinde çevrilir. Daha fazlasını çevirmek için kaydırmaya devam et."
+  },
+  "hintOff": {
+    "message": "Yorumlar göründüğünde otomatik çevirmek için aç."
+  },
+  "sessionCount": {
+    "message": "Bu oturumda çevrilen: $COUNT$",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "pageUnavailable": {
+    "message": "Bu uzantıyı kullanmak için bir YouTube video sayfası aç."
+  },
+  "openYouTube": {
+    "message": "YouTube'u aç"
+  },
+  "footerGithub": {
+    "message": "GitHub'da görüntüle"
+  },
+  "versionLabel": {
+    "message": "v$VERSION$",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "1.0.0"
+      }
+    }
+  }
+}
